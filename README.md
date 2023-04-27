@@ -1,4 +1,4 @@
-This is my groups finished project for my Javascript 2 course.
+My Javascript 2 project.
 
 We are using React and focusing alot on fetching from an API called SWAPI.
 
